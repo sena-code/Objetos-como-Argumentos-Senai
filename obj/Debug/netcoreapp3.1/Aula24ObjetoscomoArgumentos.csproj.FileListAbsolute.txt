@@ -1,0 +1,13 @@
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.exe
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.deps.json
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.dll
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.pdb
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.dll
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.pdb
+C:\Users\Vinicius\Desktop\Aula24ObjetoscomoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetoscomoArgumentos.genruntimeconfig.cache
